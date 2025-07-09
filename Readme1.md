@@ -1,6 +1,6 @@
 # HR Management Application - Suman Khadayat
 
-##i have taken help from the google to insert some javafx code run in  the admin module and i successfully run it. 
+##i have taken help from the google to insert some javafx code in  admin module and i successfully run it. 
 
 A comprehensive JavaFX application designed for simple HR management, integrating user authentication, dashboard navigation, admin and employee management, database connectivity, and unit testing for salary calculations.
 
